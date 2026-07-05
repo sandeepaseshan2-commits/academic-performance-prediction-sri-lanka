@@ -85,6 +85,19 @@ Because the dataset has class imbalance, macro-average evaluation metrics will b
 
 ---
 
+## Tools and Technologies
+
+- Google Forms
+- Google Sheets
+- Python
+- pandas
+- NumPy
+- GitHub
+- Microsoft Word
+- draw.io
+
+---
+
 ## Folder Structure
 
 ```text
