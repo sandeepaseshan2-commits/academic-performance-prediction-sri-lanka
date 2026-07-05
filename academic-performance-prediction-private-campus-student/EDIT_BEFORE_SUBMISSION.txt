@@ -1,0 +1,8 @@
+Before uploading this to GitHub:
+
+1. Add your group member names in README.md.
+2. Add your real dataset or data access note.
+3. Add your real system architecture diagram.
+4. Check the CSV column names in preprocessing.py.
+5. Change any wording that you want to write in your own style.
+6. Upload the extracted folders/files to GitHub, not only this ZIP file.
