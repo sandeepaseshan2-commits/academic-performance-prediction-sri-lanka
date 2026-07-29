@@ -4,3 +4,6 @@ data/processed/*.txt
 results/*.csv
 results/*.json
 results/*.png
+__pycache__/
+*.pyc
+.venv/
