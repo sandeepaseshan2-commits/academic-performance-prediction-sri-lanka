@@ -1,0 +1,6 @@
+data/raw/*.csv
+data/processed/*.csv
+data/processed/*.txt
+results/*.csv
+results/*.json
+results/*.png
