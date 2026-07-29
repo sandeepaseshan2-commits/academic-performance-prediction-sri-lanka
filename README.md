@@ -1,10 +1,9 @@
 # Academic Performance Prediction Among Private Campus Students
 
-This repository contains the implementation of the research project titled:
 
 **“A Comparative Study of Academic Performance Prediction Among Sri Lankan Private Campus Students Using Survey-Based Factors.”**
 
-This project was prepared for the **IT41043 Milestone 2 research assignment**.
+**IT41043 Milestone 2 research assignment**.
 
 ---
 
